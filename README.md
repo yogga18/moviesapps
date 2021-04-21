@@ -2,7 +2,7 @@
 
 This project will have some enhancements and additional features:
 1. Reusable Components
-2. Connect to fire
+2. Connect to Api
 3. Increased Responsiveness
 4. Added features to provide user experience
 
