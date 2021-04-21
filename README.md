@@ -1,5 +1,11 @@
 # movies_app
 
+This project will have some enhancements and additional features:
+1. Reusable Components
+2. Connect to fire
+3. Increased Responsiveness
+4. Added features to provide user experience
+
 A new Flutter project.
 
 ![Home Page](https://user-images.githubusercontent.com/64015271/115273773-28ea9680-a16a-11eb-9e0d-fbe369298482.jpeg)
