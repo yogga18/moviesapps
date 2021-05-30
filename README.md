@@ -1,5 +1,7 @@
 # movies_app
 
+**SOON ✌**
+
 This project will have some enhancements and additional features:
 1. Reusable Components
 2. Connect to Api
